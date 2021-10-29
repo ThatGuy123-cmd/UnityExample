@@ -12,18 +12,40 @@ this is a line
 even more 
 
 
+<<<<<<< HEAD
+
+new line
+
 NEW SHOW
 
+NEW SHOW
+=======
+>>>>>>> main
 
-thuis is the 
+new line
+
+NEW SHOW
+
+NEW SHOW
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+line 
+
+=======
+test123
+=======
+>>>>>>> main
+
+12345
 
 new 
 
-test123
+12345
 
-
+<<<<<<< HEAD
 test 
-
-test 
-
-test 
+>>>>>>> main
+=======
+12345
+>>>>>>> main
