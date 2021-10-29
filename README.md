@@ -13,3 +13,8 @@ even more
 
 
 new test line 
+<<<<<<< HEAD
+=======
+
+NEW SHOW
+>>>>>>> test
