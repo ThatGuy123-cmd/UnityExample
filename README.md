@@ -12,9 +12,11 @@ this is a line
 even more 
 
 
-new test line 
-<<<<<<< HEAD
-=======
-
 NEW SHOW
->>>>>>> test
+
+
+thuis is the 
+
+new 
+
+line 
