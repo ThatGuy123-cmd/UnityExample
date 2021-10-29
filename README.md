@@ -21,8 +21,3 @@ push git line
 push more new lines 
 
 
-this is a new line 
-
-even newer line 
-
-ad dthis 
