@@ -12,18 +12,18 @@ this is a line
 even more 
 
 
+
+new line
+
+NEW SHOW
+
 NEW SHOW
 
 
-thuis is the 
+12345
 
 new 
 
-test123
+12345
 
-
-test 
-
-test 
-
-test 
+12345
