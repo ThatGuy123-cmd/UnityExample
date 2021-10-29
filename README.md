@@ -24,5 +24,16 @@ thuis is the
 
 new 
 
+<<<<<<< HEAD
 line 
 
+=======
+test123
+
+
+test 
+
+test 
+
+test 
+>>>>>>> main
