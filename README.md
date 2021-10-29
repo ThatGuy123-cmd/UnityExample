@@ -12,6 +12,15 @@ this is a line
 even more 
 
 
+<<<<<<< HEAD
+
+new line
+
+NEW SHOW
+
+NEW SHOW
+=======
+>>>>>>> main
 
 new line
 
@@ -19,21 +28,24 @@ NEW SHOW
 
 NEW SHOW
 
-
-thuis is the 
-
-new 
-
+<<<<<<< HEAD
 <<<<<<< HEAD
 line 
 
 =======
 test123
+=======
+>>>>>>> main
 
+12345
 
+new 
+
+12345
+
+<<<<<<< HEAD
 test 
-
-test 
-
-test 
+>>>>>>> main
+=======
+12345
 >>>>>>> main
